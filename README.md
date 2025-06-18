@@ -1,4 +1,4 @@
 # gaurav
 This is my first git repository
 <br>
-Author-Gaurav Bisht
+Author-Gaurav singh
