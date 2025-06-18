@@ -1,2 +1,3 @@
 # gaurav
-hi,its my first project
+This is my first git repository
+Author-Gaurav Bisht
